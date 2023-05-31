@@ -13,10 +13,6 @@ Kodun çalışma mantığı şu şekildedir:
 Bu kod, "kullanici_bilgileri.txt" dosyasında depolanan kullanıcı bilgileriyle kullanıcı girişi kontrolü yapar. Dosya formatı kullanıcı adı ve şifrenin virgülle ayrıldığı bir yapıya sahip olmalıdır.
 
 
-
-
-
-
 ```python
   kullanici_adi = input("Kullanıcı Adı: ")
     sifre = input("Şifre: ")
