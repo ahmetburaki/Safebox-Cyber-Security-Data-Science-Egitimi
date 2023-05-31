@@ -18,6 +18,7 @@ Bu kod, kullanıcıdan bir sayı girerek bir film seçmesini sağlar ve seçilen
 
 Bu kod, basit bir film seçici uygulamasıdır. Kullanıcıya 1-5 arasında bir sayı seçmesi istenir ve seçilen film adı "selected_movie.txt" adlı bir txt dosyasına kaydedilir.
 
+
 ```python
 class MovieSelector:
     def __init__(self, movie_list, file_name):
