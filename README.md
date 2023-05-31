@@ -10,4 +10,4 @@
 [Safabox.ai kapsamında verilen eğitimlerin 2.ödevi](https://github.com/ahmetburaki/Safebox-Cyber-Security-Data-Science-Egitimi/blob/main/Create%20Safebox-Cyber-Security-Data-Science-2.-Odev.md)
 
 
-[Safabox.ai kapsamında verilen eğitimlerin 3.ödevi](https://github.com/Tinkerera/Safebox-Cyber-Security-Data-Science-Egitimi---Odev-3/blob/main/ahmetburaki.md)
+[Safabox.ai kapsamında verilen eğitimlerin 3.ödevi](https://github.com/ahmetburaki/Safebox-Cyber-Security-Data-Science-Egitimi---Odev-3/blob/main/ahmetburaki.md)
